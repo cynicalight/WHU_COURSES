@@ -1,0 +1,1 @@
+# output the gray image

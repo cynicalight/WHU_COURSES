@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/jz/code/课/编译/hw1_html",
+      "program": "/Users/jz/code/课/编译/hw1_html/build/Debug/outDebug"
+    }
+  ]
+}

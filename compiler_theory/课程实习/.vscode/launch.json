@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/jz/code/courses/compiler_theory/课程实习/hw1",
+      "program": "/Users/jz/code/courses/compiler_theory/课程实习/hw1/build/Debug/outDebug"
+    }
+  ]
+}

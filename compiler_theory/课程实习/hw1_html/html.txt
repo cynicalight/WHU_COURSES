@@ -1,0 +1,18 @@
+<body>
+    <h1>Welcome to My Random HTML Page</h1>
+    <h2>About This Page</h2>
+    <p>This is a random HTML document created as an example. It contains various HTML elements to demonstrate a
+        simple web page structure.</p>
+
+    <h2>Random List</h2>
+    <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+    </ul>
+
+    <h2>Random Image</h2>
+
+    <h2>Random Table</h2>
+
+</body>

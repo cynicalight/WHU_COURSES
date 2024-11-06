@@ -1,0 +1,32 @@
+gcc -D_REENTRANT task4.c -o task4 -lpthread
+./task4
+#Main Get Tick1
+#Child Get Tick2
+#Main Get Tick3
+#Child Get Tick4
+#Main Get Tick5
+#Child Get Tick6
+#Main Get Tick7
+#Child Get Tick8
+#Main Get Tick9
+#Child Get Tick10
+#Main Get Tick11
+#Child Get Tick12
+#Main Get Tick13
+#Child Get Tick14
+#Main Get Tick15
+#Child Get Tick16
+#Main Get Tick17
+#Child Get Tick18
+#Main Get Tick19
+#Child Get Tick20
+#Main Get Tick21
+#Child Get Tick22
+#Main Get Tick23
+#Child Get Tick24
+#Main Get Tick25
+#Child Get Tick26
+#Main Get Tick27
+#Child Get Tick28
+#Main Get Tick29
+#Child Get Tick30

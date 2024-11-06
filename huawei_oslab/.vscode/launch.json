@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Dash.Yan/Documents/WPSDrive/485345319/WPS云盘/操作系统设计与实践（华为鲲鹏版）/操作系统应用实践篇/实验代码/03-library/task1",
+      "program": "c:/Users/Dash.Yan/Documents/WPSDrive/485345319/WPS云盘/操作系统设计与实践（华为鲲鹏版）/操作系统应用实践篇/实验代码/03-library/task1/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+D:/model_codwork/sccpu_sim/sccomp_tb.v {1 {vlog -work work -vopt D:/model_codwork/sccpu_sim/sccomp_tb.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module sccomp_tb
+
+Top level modules:
+	sccomp_tb
+
+} {} {}} D:/model_codwork/sccpu_sim/ctrl.v {1 {vlog -work work -vopt D:/model_codwork/sccpu_sim/ctrl.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module ctrl
+
+Top level modules:
+	ctrl
+
+} {} {}} D:/model_codwork/sccpu_sim/sccomp.v {1 {vlog -work work -vopt D:/model_codwork/sccpu_sim/sccomp.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module sccomp
+
+Top level modules:
+	sccomp
+
+} {} {}} D:/model_codwork/sccpu_sim/im.v {1 {vlog -work work -vopt D:/model_codwork/sccpu_sim/im.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module im
+
+Top level modules:
+	im
+
+} {} {}} D:/model_codwork/sccpu_sim/ctrl_encode_def.v {1 {vlog -work work -vopt D:/model_codwork/sccpu_sim/ctrl_encode_def.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+
+} {} {}} D:/model_codwork/sccpu_sim/dm.v {1 {vlog -work work -vopt D:/model_codwork/sccpu_sim/dm.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module dm
+
+Top level modules:
+	dm
+
+} {} {}} D:/model_codwork/sccpu_sim/EXT.v {1 {vlog -work work -vopt D:/model_codwork/sccpu_sim/EXT.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module EXT
+
+Top level modules:
+	EXT
+
+} {} {}} D:/model_codwork/sccpu_sim/NPC.v {1 {vlog -work work -vopt D:/model_codwork/sccpu_sim/NPC.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module NPC
+
+Top level modules:
+	NPC
+
+} {} {}} D:/model_codwork/sccpu_sim/alu.v {1 {vlog -work work -vopt D:/model_codwork/sccpu_sim/alu.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} D:/model_codwork/sccpu_sim/mux.v {1 {vlog -work work -vopt D:/model_codwork/sccpu_sim/mux.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module mux2
+-- Compiling module mux4
+-- Compiling module mux8
+-- Compiling module mux16
+
+Top level modules:
+	mux2
+	mux4
+	mux8
+	mux16
+
+} {} {}} D:/model_codwork/sccpu_sim/PC.v {1 {vlog -work work -vopt D:/model_codwork/sccpu_sim/PC.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} D:/model_codwork/sccpu_sim/sccpu.v {1 {vlog -work work -vopt D:/model_codwork/sccpu_sim/sccpu.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module sccpu
+
+Top level modules:
+	sccpu
+
+} {} {}} D:/model_codwork/sccpu_sim/RF.v {1 {vlog -work work -vopt D:/model_codwork/sccpu_sim/RF.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module RF
+
+Top level modules:
+	RF
+
+} {} {}}

@@ -1,0 +1,66 @@
+
+LABEL_A: <body>
+
+LABEL_A: <h1>
+
+TEXT: Welcome to My Random HTML Page
+
+LABEL_B: </h1>
+
+LABEL_A: <h2>
+
+TEXT: About This Page
+
+LABEL_B: </h2>
+
+LABEL_A: <p>
+
+TEXT: This is a random HTML document created as an example. It contains various HTML elements to demonstrate a
+        simple web page structure.
+
+LABEL_B: </p>
+
+LABEL_A: <h2>
+
+TEXT: Random List
+
+LABEL_B: </h2>
+
+LABEL_A: <ul>
+
+LABEL_A: <li>
+
+TEXT: Item 1
+
+LABEL_B: </li>
+
+LABEL_A: <li>
+
+TEXT: Item 2
+
+LABEL_B: </li>
+
+LABEL_A: <li>
+
+TEXT: Item 3
+
+LABEL_B: </li>
+
+LABEL_B: </ul>
+
+LABEL_A: <h2>
+
+TEXT: Random Image
+
+LABEL_B: </h2>
+
+LABEL_A: <h2>
+
+TEXT: Random Table
+
+LABEL_B: </h2>
+
+LABEL_B: </body>
+
+num_labela	num_labelb	num_text
+11	11	9
